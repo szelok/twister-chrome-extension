@@ -1,0 +1,29 @@
+{
+  "name": "Twister - Share",
+  "description": "An easy way to share web contents with Twister",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  
+  "icons": { "48": "img/twister.png" },
+          
+  "background": {
+    "scripts": ["js/background.js"],
+    "persistent": false
+  },
+  "browser_action": {
+    "default_popup": "browser_action.html",
+    "default_icon": "img/twister.png",
+    "default_title": "Twist-Share"
+  },
+  "permissions": [
+          "tabs", "<all_urls>", "storage"
+        ],
+  "commands": {
+    "_execute_browser_action": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+F",
+        "mac": "MacCtrl+Shift+F"
+      }
+    }
+  }
+}
