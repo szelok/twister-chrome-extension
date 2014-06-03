@@ -11,3 +11,7 @@ Instruction
 2. Follow steps on https://developer.chrome.com/extensions/getstarted#unpacked
 
 ![Twister Share](./screenshot.png?raw=true "Twister Share")
+
+Usage
+=====
+Either click on the Twister Icon (between omnibox and hot-dog menu) or Ctrl-Shift-T (both Windows and Mac).
