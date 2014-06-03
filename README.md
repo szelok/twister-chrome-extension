@@ -14,4 +14,6 @@ Instruction
 
 Usage
 =====
-When you want to share any web page, either click on the Twister Icon (between omnibox and hot-dog menu) or Ctrl-Shift-T (both Windows and Mac).
+No need to copy the url and paste to the Twister page.
+
+On the page you are reading, when you feel like sharing, either click on the Twister Icon (between omnibox and hot-dog menu) or Ctrl-Shift-T (both Windows and Mac).
